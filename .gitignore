@@ -1,0 +1,22 @@
+# Personal reports and submitted course documents
+01报告/
+
+# Course reference PDFs and other non-source materials
+03补充资料/
+
+# Common Vivado generated outputs
+.Xil/
+*.jou
+*.log
+*.str
+*.tmp
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# OS/editor noise
+Thumbs.db
+.DS_Store

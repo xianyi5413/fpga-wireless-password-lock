@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="CTRL_INTEGRATION_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="CTRL_INTEGRATION_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="325.001 ns"></ZoomEndTime>
+      <Cursor1Time time="0.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="219"></NameColumnWidth>
+      <ValueColumnWidth column_width="252"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="59" />
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/BACKSPACE_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">BACKSPACE_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">BACKSPACE_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/OK_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">OK_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">OK_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/MANAGER_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">MANAGER_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">MANAGER_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/START_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">START_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">START_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW0_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW0_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW0_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW1_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW1_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW1_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW2_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW2_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW2_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW3_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW3_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW3_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW4_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW4_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW4_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW5_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW5_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW5_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW6_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW6_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW6_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW7_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW7_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW7_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW8_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW8_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW8_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW9_PHYSICAL" type="logic">
+      <obj_property name="ElementShortName">SW9_PHYSICAL</obj_property>
+      <obj_property name="ObjectShortName">SW9_PHYSICAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/BACKSPACE_BT" type="logic">
+      <obj_property name="ElementShortName">BACKSPACE_BT</obj_property>
+      <obj_property name="ObjectShortName">BACKSPACE_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/OK_BT" type="logic">
+      <obj_property name="ElementShortName">OK_BT</obj_property>
+      <obj_property name="ObjectShortName">OK_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/MANAGER_BT" type="logic">
+      <obj_property name="ElementShortName">MANAGER_BT</obj_property>
+      <obj_property name="ObjectShortName">MANAGER_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/START_BT" type="logic">
+      <obj_property name="ElementShortName">START_BT</obj_property>
+      <obj_property name="ObjectShortName">START_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW0_BT" type="logic">
+      <obj_property name="ElementShortName">SW0_BT</obj_property>
+      <obj_property name="ObjectShortName">SW0_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW1_BT" type="logic">
+      <obj_property name="ElementShortName">SW1_BT</obj_property>
+      <obj_property name="ObjectShortName">SW1_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW2_BT" type="logic">
+      <obj_property name="ElementShortName">SW2_BT</obj_property>
+      <obj_property name="ObjectShortName">SW2_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW3_BT" type="logic">
+      <obj_property name="ElementShortName">SW3_BT</obj_property>
+      <obj_property name="ObjectShortName">SW3_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW4_BT" type="logic">
+      <obj_property name="ElementShortName">SW4_BT</obj_property>
+      <obj_property name="ObjectShortName">SW4_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW5_BT" type="logic">
+      <obj_property name="ElementShortName">SW5_BT</obj_property>
+      <obj_property name="ObjectShortName">SW5_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW6_BT" type="logic">
+      <obj_property name="ElementShortName">SW6_BT</obj_property>
+      <obj_property name="ObjectShortName">SW6_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW7_BT" type="logic">
+      <obj_property name="ElementShortName">SW7_BT</obj_property>
+      <obj_property name="ObjectShortName">SW7_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW8_BT" type="logic">
+      <obj_property name="ElementShortName">SW8_BT</obj_property>
+      <obj_property name="ObjectShortName">SW8_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW9_BT" type="logic">
+      <obj_property name="ElementShortName">SW9_BT</obj_property>
+      <obj_property name="ObjectShortName">SW9_BT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/BACKSPACE" type="logic">
+      <obj_property name="ElementShortName">BACKSPACE</obj_property>
+      <obj_property name="ObjectShortName">BACKSPACE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/OK" type="logic">
+      <obj_property name="ElementShortName">OK</obj_property>
+      <obj_property name="ObjectShortName">OK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/MANAGER" type="logic">
+      <obj_property name="ElementShortName">MANAGER</obj_property>
+      <obj_property name="ObjectShortName">MANAGER</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/START" type="logic">
+      <obj_property name="ElementShortName">START</obj_property>
+      <obj_property name="ObjectShortName">START</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW0" type="logic">
+      <obj_property name="ElementShortName">SW0</obj_property>
+      <obj_property name="ObjectShortName">SW0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW1" type="logic">
+      <obj_property name="ElementShortName">SW1</obj_property>
+      <obj_property name="ObjectShortName">SW1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW2" type="logic">
+      <obj_property name="ElementShortName">SW2</obj_property>
+      <obj_property name="ObjectShortName">SW2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW3" type="logic">
+      <obj_property name="ElementShortName">SW3</obj_property>
+      <obj_property name="ObjectShortName">SW3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW4" type="logic">
+      <obj_property name="ElementShortName">SW4</obj_property>
+      <obj_property name="ObjectShortName">SW4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW5" type="logic">
+      <obj_property name="ElementShortName">SW5</obj_property>
+      <obj_property name="ObjectShortName">SW5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW6" type="logic">
+      <obj_property name="ElementShortName">SW6</obj_property>
+      <obj_property name="ObjectShortName">SW6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW7" type="logic">
+      <obj_property name="ElementShortName">SW7</obj_property>
+      <obj_property name="ObjectShortName">SW7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW8" type="logic">
+      <obj_property name="ElementShortName">SW8</obj_property>
+      <obj_property name="ObjectShortName">SW8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SW9" type="logic">
+      <obj_property name="ElementShortName">SW9</obj_property>
+      <obj_property name="ObjectShortName">SW9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/STATE" type="array">
+      <obj_property name="ElementShortName">STATE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">STATE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/LED" type="array">
+      <obj_property name="ElementShortName">LED[9:0]</obj_property>
+      <obj_property name="ObjectShortName">LED[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/AN" type="array">
+      <obj_property name="ElementShortName">AN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/SEG" type="array">
+      <obj_property name="ElementShortName">SEG[7:0]</obj_property>
+      <obj_property name="ObjectShortName">SEG[7:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RGB1_RED" type="logic">
+      <obj_property name="ElementShortName">RGB1_RED</obj_property>
+      <obj_property name="ObjectShortName">RGB1_RED</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RGB1_GREEN" type="logic">
+      <obj_property name="ElementShortName">RGB1_GREEN</obj_property>
+      <obj_property name="ObjectShortName">RGB1_GREEN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RGB1_BLUE" type="logic">
+      <obj_property name="ElementShortName">RGB1_BLUE</obj_property>
+      <obj_property name="ObjectShortName">RGB1_BLUE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RGB2_RED" type="logic">
+      <obj_property name="ElementShortName">RGB2_RED</obj_property>
+      <obj_property name="ObjectShortName">RGB2_RED</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RGB2_GREEN" type="logic">
+      <obj_property name="ElementShortName">RGB2_GREEN</obj_property>
+      <obj_property name="ObjectShortName">RGB2_GREEN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/RGB2_BLUE" type="logic">
+      <obj_property name="ElementShortName">RGB2_BLUE</obj_property>
+      <obj_property name="ObjectShortName">RGB2_BLUE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/last_state" type="array">
+      <obj_property name="ElementShortName">last_state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">last_state[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/i_CTRL/Code" type="array">
+      <obj_property name="ElementShortName">Code[3:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">Code[3:0][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/i_CTRL/Error_Times" type="array">
+      <obj_property name="ElementShortName">Error_Times[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Error_Times[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/i_CTRL/Current_State" type="array">
+      <obj_property name="ElementShortName">Current_State[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Current_State[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/CTRL_INTEGRATION_TB/i_CTRL/i_RGB/Count_RGBW" type="array">
+      <obj_property name="ElementShortName">Count_RGBW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Count_RGBW[31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
